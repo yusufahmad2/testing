@@ -1,2 +1,2 @@
 for _ in range(100):
-    print(100, end=' ')
+    print(10000, end=' ')
